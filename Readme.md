@@ -9,8 +9,8 @@ This program describes for quiz questions about javaScript and it contains multi
 
 ## Project setup instructions
 To start using this project use the following commands:
-- `git clone 
-- `cd quiz.project
+- `git clone https://github.com/halista11/quiz-proj
+- `cd quiz-project
 - `atom .`
 
 
