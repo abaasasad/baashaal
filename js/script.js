@@ -14,8 +14,8 @@ $(document).ready(function() {
     var ques6 = document.forms["questions"]["question6"].value;
     var ques7 = document.forms["questions"]["question7"].value;
     var ques8 = document.forms["questions"]["question8"].value;
-    var ques9 = document.forms["questions"]["question8"].value;
-    var ques10 = document.forms["questions"]["question8"].value;
+    var ques9 = document.forms["questions"]["question9"].value;
+    var ques10 = document.forms["questions"]["question10"].value;
 
 
 

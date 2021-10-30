@@ -3,6 +3,7 @@ background-color: #0691C5;
 }
 .jumbotron{
   text-align: center;
+  
 }
 .well{
   color: black;
@@ -15,8 +16,8 @@ button{
   text-align: center;
 }
 #submit1:hover{
-  background-color: #34E50D;
-  color: black;
+  background-color: green;
+  color: #fff;
 }
 #reset-btn:hover{
   background-color: red;
@@ -31,6 +32,7 @@ button{
   background-color:black;
   margin-top: 20px;
   text-align: center;
+  border-radius: 20px;
 
 }
 .reset{
