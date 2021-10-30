@@ -1,7 +1,7 @@
 # quiz-project.
 
 ## Authors
-- [Ahmed halista](https://github.com/halista11)
+- [abaas_it](https://github.com/abaasasad)
 - Add your clickable username here. It should point to your GitHub account.
 
 ### description of quiz-Project
@@ -9,7 +9,7 @@ This program describes for quiz questions about javaScript and it contains multi
 
 ## Project setup instructions
 To start using this project use the following commands:
-- `git clone https://github.com/halista11/quiz-proj
+- `
 - `cd quiz-project
 - `atom .`
 
